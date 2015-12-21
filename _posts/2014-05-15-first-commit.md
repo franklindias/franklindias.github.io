@@ -7,10 +7,10 @@ categories: personal
 tags: 
   - blogging
   - jekyll
-imagefeature: "website-speed.jpg"
+imagefeature: "https://image.freepik.com/fotos-gratis/laptop-com-cafe-na-mesa-do-escritorio_426-19315250.jpg"
 imagecredit: spreadeffect.com
 imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
-comments: false
+comments: true
 mathjax: null
 featured: true
 published: true
