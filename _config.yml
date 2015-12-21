@@ -1,30 +1,29 @@
-title:            Notepad
-description:      "Blogging is fun"
-logo:             logo3.png
-disqus_shortname: hmfaysal
+title:            Franklin Dias
+description:      "Compartilhando meus estudos!"
+logo:             logo.png
+disqus_shortname: franklindias
 share:            true
+dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:        	  http://hmfaysal.github.io
+url:        	  http://franklindias.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Franklin Dias
   avatar:         hmfaysal.jpg
-  email:          you@email.com
+  email:          franklindias99@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Apaixonado por tecnologia e inovação.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  facebook:       franklindias99
+  github:         franklindias
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/109677573427620349180
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+#google_analytics:   UA-39365944-7
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -41,10 +40,10 @@ links:
   - title: Categories
     url: /categories
   - title: About
-    url: /hossain-mohd-faysal
+    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Fortaleza/America
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -70,8 +69,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://franklindias.github.io/'
+  relativeLinks: 'http://franklindias.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:
     _posts:
