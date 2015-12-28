@@ -7,7 +7,7 @@ featured: true
 comments: true
 headline: Making blogging easier for masses
 categories: 
-  - webdevelopment
+  - webdevelopmentyut
 tags: jekyll
 ---
 
